@@ -91,7 +91,17 @@ Pull система мониторинга
 
 P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 `./data:/var/lib:Z`
-#
+
+# Ответ
+
+Запуск контейнеров
+
+![7 задание докер контейнеры](https://user-images.githubusercontent.com/109212419/227336864-f6f537bc-7f82-4e40-86e0-baca80abb445.jpg)
+
+Curl
+
+![7 задание curl](https://user-images.githubusercontent.com/109212419/227336773-0ef55e80-189a-4735-86e6-2caaf75781b0.jpg)
+
 
 # 8. Перейдите в веб-интерфейс Chronograf (`http://localhost:8888`) и откройте вкладку `Data explorer`.
 
